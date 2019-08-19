@@ -2,8 +2,8 @@
 just another respository
 # include<stdio.h>
 
-int main()
-{
-   printf("hello world!\n");
-   return 0;
+public class FirstSample{
+    public static void main(String[] args){
+        System.out.println("We will not use 'Hello world!'");
+    }
 }
